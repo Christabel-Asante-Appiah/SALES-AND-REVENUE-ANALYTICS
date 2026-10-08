@@ -12,3 +12,5 @@ Customer Segmentation: Includes filters for Gender and Generation, enabling deep
 Automated Business Insights: Highlights key findings, such as top-performing product categories, highest and lowest revenue periods, and average sales performance.
 
 The dashboard serves as a powerful analytical tool for sales teams, retail managers, and business stakeholders seeking to optimize product strategies, improve customer targeting, and maximize revenue growth.
+
+The dataset was downloaded on KAGGLE; https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
